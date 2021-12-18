@@ -8,14 +8,14 @@
 
 
 .container{
-    max-width: 1211px;
+    max-width: 1200px;
     margin: 0 auto;
 }
 
 /* header */
 
 .header{
-    padding-top: 17px;
+    padding: 17px 0;
 }
 
 .header .container{
@@ -40,7 +40,7 @@
 }
 
 .menu-item{
-    padding: 0px 22.5px;
+    margin-left: 55px;
 }
 
 .menu-link{
@@ -79,11 +79,9 @@
 /* we work */
 section{
         text-align: center;
+        padding: 50px 0;
 }
-.we-work{
-    padding-top: 81px;
-    padding-bottom: 50px;
-}
+
 
 .section-uptitle{
     margin-bottom: 20px;
@@ -175,7 +173,6 @@ section{
 }
 
 .socials{
-    height: 12%;
     list-style: none;
     display: flex;
     width: 70%;
