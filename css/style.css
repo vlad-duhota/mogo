@@ -200,11 +200,11 @@ section .section-title::after {
     -webkit-transition: 0.3s;
     transition: 0.3s;
   }
+  .menu .menu-item {
+    margin-left: 0;
+  }
 }
 
-.menu .menu-item {
-  margin-left: 0;
-}
 
 
 .menu .menu-list {
